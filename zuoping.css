@@ -1,0 +1,7 @@
+
+*{ margin:0px; padding:0px;}
+.fo{ width:500px; height:4260px; background-color:#000; margin:0 auto;}
+.qw{ width:500px; height:500px; background-color:#999; margin-top:20px;}
+.qe{ width:100px; height:30px; margin:0 auto; margin-top:40px;}
+.qe a{text-decoration:none;color:#FFF; font-size:24px;}
+.qe a:hover{ color:#960;}
